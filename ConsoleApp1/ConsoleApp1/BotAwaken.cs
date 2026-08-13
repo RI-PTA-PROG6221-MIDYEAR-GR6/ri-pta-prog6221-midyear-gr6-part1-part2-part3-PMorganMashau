@@ -13,7 +13,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("");
             Console.ForegroundColor = ConsoleColor.Blue;
-            Console.Write("bot");
+            Console.Write("Bot");
             Console.ResetColor();
             Console.WriteLine(": Hi , what is your name?");
             Console.Write("> ");
