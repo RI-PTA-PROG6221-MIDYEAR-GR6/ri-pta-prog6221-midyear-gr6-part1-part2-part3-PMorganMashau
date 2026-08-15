@@ -1,0 +1,8 @@
+  .---------.
+  |.-------.|
+  ||>run#  ||
+  ||       ||               Hi, Welcome to the Cyber Security Awareness ChatBot
+  |"-------'|
+.-^---------^-.
+| ---~   Welcome|
+"-------------'
