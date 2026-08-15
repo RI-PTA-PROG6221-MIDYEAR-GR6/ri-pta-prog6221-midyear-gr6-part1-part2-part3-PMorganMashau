@@ -35,7 +35,7 @@ namespace ConsoleApp1
             Console.ResetColor();
 
 
-            Console.WriteLine($": Nice to meet you {name}.I am CSCB, a Cyber Security awareness ChatBot. You cana ask me anything about cyber security.");
+            Console.WriteLine($": Nice to meet you {name}.I am CSCB, a Cyber Security awareness ChatBot. You can ask me anything about cyber security.");
             Console.WriteLine("   Or say exit to end the program.");
             //
             while (running)
@@ -82,6 +82,8 @@ namespace ConsoleApp1
                     Console.ResetColor();
                     cyberAttack();
 
+                } else if (message.ToLower().Contains("attack") || message.Trim().ToLower().Contains("cyberattack")) {
+                    Console.WriteLine("Cyber attack Method!!!");
                 }
                 else if (message.ToLower().Contains("cybersecurity") || (message.ToLower().Trim().Contains("cyber security") || (message.ToLower().Trim().Contains("security"))))
                 {

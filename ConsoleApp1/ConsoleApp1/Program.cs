@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Media;
 namespace ConsoleApp1
 {
     class Program
@@ -25,6 +26,10 @@ namespace ConsoleApp1
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(" Offline");
             Console.ResetColor();
+
+            //Sound
+            SoundPlayer passwords = new SoundPlayer("passwords.wav");
+            passwords.Play();
             Console.WriteLine("Welcome to the Cyber Security Awareness Chatbot. Here to help you stay safe online.");
             Console.WriteLine("Say hi or hello to wake the bot, or say exit to end the program!");
             idle();

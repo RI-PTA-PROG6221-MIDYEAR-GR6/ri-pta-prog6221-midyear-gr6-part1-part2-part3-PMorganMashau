@@ -14,3 +14,7 @@ C:\Users\Morgan\Documents\GitHub\ri-pta-prog6221-midyear-gr6-part1-part2-part3-P
 C:\Users\Morgan\Documents\GitHub\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Morgan\Documents\GitHub\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
 C:\Users\Morgan\Documents\GitHub\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\art.txt
+C:\Users\Morgan\Documents\GitHub\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Morgan\Documents\GitHub\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\Morgan\Documents\GitHub\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Morgan\Documents\GitHub\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleA.CB28C8CC.Up2Date
