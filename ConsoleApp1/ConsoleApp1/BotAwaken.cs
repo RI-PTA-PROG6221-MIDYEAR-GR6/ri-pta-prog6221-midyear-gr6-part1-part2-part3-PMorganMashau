@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,6 +10,7 @@ namespace ConsoleApp1
     public class BotAwaken
     {
         bool running = true;
+        string name;
         public BotAwaken()
         {
             Console.WriteLine("");
@@ -17,7 +19,7 @@ namespace ConsoleApp1
             Console.ResetColor();
             Console.WriteLine(": Hi , what is your name?");
             Console.Write("> ");
-            string name = Console.ReadLine();
+            name = Console.ReadLine();
 
             Console.WriteLine("");
             Console.WriteLine("*****************************");
@@ -44,7 +46,7 @@ namespace ConsoleApp1
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.Write("Bot");
                 Console.ResetColor();
-                Console.WriteLine(":Ask me about Cyber Security, passwords, malware, phishing, safe browsing, cyber attacks");
+                Console.WriteLine(":Ask me about Cyber Security, passwords, malware, phishing, safe browsing, cyber attacks, or say hints for extra features");
                 Console.WriteLine("------------------------------------------------------------------------------------------------------");
                 Console.WriteLine("");
                 Console.ForegroundColor = ConsoleColor.Green;
@@ -65,6 +67,11 @@ namespace ConsoleApp1
                     malware();
 
                 }
+                else if (message.ToLower().Trim().Contains("hint"))
+                {
+                    //Show Extra features (hints)
+                    showHints();
+                }
                 else if (message.ToLower().Contains("exit") || (message.ToLower().Contains("end") || (message.ToLower().Contains("stop"))))
                 {
                     Console.WriteLine("Ending Program.");
@@ -82,7 +89,9 @@ namespace ConsoleApp1
                     Console.ResetColor();
                     cyberAttack();
 
-                } else if (message.ToLower().Contains("attack") || message.Trim().ToLower().Contains("cyberattack")) {
+                }
+                else if (message.ToLower().Contains("attack") || message.Trim().ToLower().Contains("cyberattack"))
+                {
                     Console.WriteLine("Cyber attack Method!!!");
                 }
                 else if (message.ToLower().Contains("cybersecurity") || (message.ToLower().Trim().Contains("cyber security") || (message.ToLower().Trim().Contains("security"))))
@@ -101,6 +110,22 @@ namespace ConsoleApp1
             Console.WriteLine("");
             Console.WriteLine("PASSWORDS");
             Console.WriteLine("For strong security, use long, unique passwords for every account (ideally 16+ characters with a mix of letters, numbers, and symbols), avoid personal info or common words, and never reuse passwords across sites. The best way to manage this is with a reputable password manager that encrypts your vault, generates random passwords, and supports multi-factor authentication for your master account. Keep your master password very strong, enable 2FA on the manager and important accounts, and avoid storing passwords in plain text, your browser, or sending them via email or messages.");
+        }
+        internal void showHints()
+        {
+            Console.WriteLine("");
+            Console.WriteLine("----Features----");
+            Console.WriteLine("1. Change username");
+            Console.WriteLine("2. Back to topics");
+            int choice = int.Parse(Console.ReadLine());
+            switch (choice)
+            {
+                case 1:
+                    changeName();
+                    break;
+                case 2:
+                    break;
+            }
         }
         internal void malware()
         {
@@ -133,6 +158,16 @@ namespace ConsoleApp1
             Console.WriteLine("Safe browsing is how you protect yourself, your personal data, and your devices from online threats while you surf the internet. When you use safe browsing features, your browser acts as a shield, checking every link you click against databases of known dangers before you open them.");
         }
 
+        internal void changeName()
+        {
+            Console.WriteLine("");
+            Console.WriteLine("---Change Username---");
+            Console.WriteLine("Bot: Enter your new name");
+            Console.Write("New name: ");
+            name = Console.ReadLine();
+            Console.WriteLine($"Done! I will now call you {name}!");
+            Console.WriteLine("");
+        }
 
     }
 }

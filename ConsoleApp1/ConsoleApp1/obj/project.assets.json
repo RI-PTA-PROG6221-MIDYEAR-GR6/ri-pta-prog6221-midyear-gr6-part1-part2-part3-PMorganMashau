@@ -58,19 +58,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Morgan\\.nuget\\packages\\": {}
+    "C:\\Users\\Programming Drive\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Morgan\\Documents\\GitHub\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Programming Drive\\Documents\\GitHub\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Morgan\\Documents\\GitHub\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Morgan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Morgan\\Documents\\GitHub\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\Programming Drive\\Documents\\GitHub\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Programming Drive\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Programming Drive\\Documents\\GitHub\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Morgan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Programming Drive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
