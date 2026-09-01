@@ -29,7 +29,7 @@ namespace ConsoleApp1
 
             //Sound
             SoundPlayer passwords = new SoundPlayer("passwords.wav");
-            passwords.Play();
+            //passwords.Play();
             Console.WriteLine("Welcome to the Cyber Security Awareness Chatbot. Here to help you stay safe online.");
             Console.WriteLine("Say hi or hello to wake the bot, or say exit to end the program!");
             idle();
