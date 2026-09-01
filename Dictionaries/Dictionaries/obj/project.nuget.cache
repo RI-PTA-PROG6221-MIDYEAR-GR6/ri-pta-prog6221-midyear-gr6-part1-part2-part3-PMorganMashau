@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFfH8v9bIUk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\OneDrive - ADvTECH Ltd\\2026 July- Mid-Year Rosebank\\PROG 2A\\GithubDesk\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\\Dictionaries\\Dictionaries\\Dictionaries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\naudio\\1.9.0\\naudio.1.9.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\soundplayercontrol\\0.9.0.6\\soundplayercontrol.0.9.0.6.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.windows.extensions\\10.0.10\\system.windows.extensions.10.0.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'SoundPlayerControl 0.9.0.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\Student\\OneDrive - ADvTECH Ltd\\2026 July- Mid-Year Rosebank\\PROG 2A\\GithubDesk\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\\Dictionaries\\Dictionaries\\Dictionaries.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Student\\OneDrive - ADvTECH Ltd\\2026 July- Mid-Year Rosebank\\PROG 2A\\GithubDesk\\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\\Dictionaries\\Dictionaries\\Dictionaries.csproj",
+      "libraryId": "SoundPlayerControl",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

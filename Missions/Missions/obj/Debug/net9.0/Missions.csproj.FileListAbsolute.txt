@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\bin\Debug\net9.0\Missions.exe
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\bin\Debug\net9.0\Missions.deps.json
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\bin\Debug\net9.0\Missions.runtimeconfig.json
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\bin\Debug\net9.0\Missions.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\bin\Debug\net9.0\Missions.pdb
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\obj\Debug\net9.0\Missions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\obj\Debug\net9.0\Missions.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\obj\Debug\net9.0\Missions.AssemblyInfo.cs
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\obj\Debug\net9.0\Missions.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\obj\Debug\net9.0\Missions.sourcelink.json
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\obj\Debug\net9.0\Missions.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\obj\Debug\net9.0\refint\Missions.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\obj\Debug\net9.0\Missions.pdb
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\obj\Debug\net9.0\Missions.genruntimeconfig.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\2026 July- Mid-Year Rosebank\PROG 2A\GithubDesk\ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau\Missions\Missions\obj\Debug\net9.0\ref\Missions.dll
