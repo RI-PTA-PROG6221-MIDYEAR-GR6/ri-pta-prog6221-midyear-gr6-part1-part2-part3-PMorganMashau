@@ -6,11 +6,11 @@ GitHub repository Link: https://github.com/RI-PTA-PROG6221-MIDYEAR-GR6/ri-pta-pr
 
 ### This is a Cyber Security Awareness ChatBot. Runs using C# built on Visual Studio 2026.
 Be sure to download:
-The latest .NET SDK available
-malware.wav
-welcome.wav
-art.txt
-to run the program.
+The latest .NET SDK available <br>
+malware.wav<br>
+welcome.wav<br>
+art.txt<br>
+to run the program.<br>
 Packages installed: System.Windows.Extensions
 ========================================================
 
