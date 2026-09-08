@@ -16,3 +16,4 @@ Packages installed: System.Windows.Extensions
 
 ##To run Program
 You can open the project with Visual Studio or download the ZIP file.
+<img width="920" height="401" alt="Screenshot 2026-09-08 233520" src="https://github.com/user-attachments/assets/1f956e6e-ccae-48d3-ba9b-3e1b0c1ebc06" />
