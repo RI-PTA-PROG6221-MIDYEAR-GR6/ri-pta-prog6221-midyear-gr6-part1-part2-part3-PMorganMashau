@@ -1,7 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SAB2_YS4)
 
-###YOUTUBE Link: https://youtu.be/uvpyID90u1A <br>
-####GitHub repository Link: https://github.com/RI-PTA-PROG6221-MIDYEAR-GR6/ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau <br>
+#YOUTUBE Link: https://youtu.be/uvpyID90u1A <br>
+<a href="https://github.com/RI-PTA-PROG6221-MIDYEAR-GR6/ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau" target=_blank> Github Repository</a>
+#GitHub repository Link: https://github.com/RI-PTA-PROG6221-MIDYEAR-GR6/ri-pta-prog6221-midyear-gr6-part1-part2-part3-PMorganMashau <br>
 ===========================================================================================================================================
 
 ### This is a Cyber Security Awareness ChatBot. Runs using C# built on Visual Studio 2026. 
