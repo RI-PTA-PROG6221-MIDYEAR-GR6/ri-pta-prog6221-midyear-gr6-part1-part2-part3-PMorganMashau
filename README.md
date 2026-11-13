@@ -26,3 +26,6 @@ You can open the project with Visual Studio or download the ZIP file.
 <hr>
 <strong> POE PART 2 </strong>
 # Youtube  <a href="https://youtu.be/4-gcD4bS3Mk?si=H3p-gINsdP5CvAG0"> Video </a>
+<hr>
+<strong>POE PART 3</strong>
+<a href="https://youtu.be/JSlGthPKReo">YouTube Video</a>
